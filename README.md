@@ -24,3 +24,10 @@ A simple **Bank Customer Data Management System** developed in **Java (JDBC)** f
 ---
 
 ## 📂 Project Structure
+BankCustomerData/
+│── src/
+│ ├── CustomerDetails.java
+│ ├── DatabaseConnection.java
+│ ├── BankOperations.java
+│── README.md
+│── customerdata.sql
